@@ -2,8 +2,6 @@
 
 Shoo is a fully responsive landing page for an online shoe store. The code is written purely with HTML, CSS, and JavaScript.
 
-Go to website: https://seliun.github.io/Web-Development-Bootcamp-Website/
-
 ## ✨ How It Looks:
 
 ### Desktop ⬇️
